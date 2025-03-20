@@ -1,0 +1,5 @@
+1. Add secret management to the project (AWS)
+2. Push the built image to Docker Hub from build.sh script
+3. Run the Docker image through Docker scout to analyse the image.
+4. Configure CRON job that automatically runs the build.sh script every x time
+5. Push the updates to GitHub automatically every x time
