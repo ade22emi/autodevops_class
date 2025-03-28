@@ -632,3 +632,6 @@ Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
  3 files changed, 10 insertions(+)
  rename .github/workflows/{.yaml => deploy.yaml} (100%)
 Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
+[master e5f1759] update2
+ 2 files changed, 11 insertions(+)
+Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
