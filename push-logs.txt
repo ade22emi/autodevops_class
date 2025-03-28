@@ -606,3 +606,6 @@ Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
 [master b0378ea] update2
  2 files changed, 10 insertions(+)
 Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
+[master 70034d5] update2
+ 3 files changed, 10 insertions(+)
+ create mode 100644 .github
