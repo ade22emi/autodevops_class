@@ -12,14 +12,14 @@ jobs:
             echo  "hello everyone!"
         - name: "list directory"
           run: |
-             ls-la
+             ls -la
 
         - name: Checkout from .github directory
           uses: actions/checkout@v4
         
         - name: "list directory2"
           run:  |
-              ls-la
+              ls -la
 
         # - name: "Build Docker image"
         #   run: |
