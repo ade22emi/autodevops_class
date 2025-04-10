@@ -1145,3 +1145,7 @@ Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
 [master 97dcf06] update2
  2 files changed, 9 insertions(+)
 Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
+[master f50a073] update2
+ 3 files changed, 48 insertions(+)
+ create mode 100644 docker-compose.yaml
+Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
