@@ -1372,3 +1372,9 @@ Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
 [master 0651537] update2
  2 files changed, 9 insertions(+)
 Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
+[master 5b49a6e] update2
+ 5 files changed, 25 insertions(+), 1 deletion(-)
+ create mode 100644 .scannerwork/.sonar_lock
+ create mode 100644 .scannerwork/report-task.txt
+ create mode 100644 sonar-project.properties
+Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
