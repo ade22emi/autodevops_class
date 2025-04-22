@@ -1403,3 +1403,7 @@ Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
  3 files changed, 10 insertions(+)
  create mode 100644 .sonar-project.properties.swp
 Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
+[master d65f27c] update2
+ 3 files changed, 10 insertions(+)
+ delete mode 100644 .sonar-project.properties.swp
+Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
