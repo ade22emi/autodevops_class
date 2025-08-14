@@ -14696,3 +14696,9 @@ Docker login failed!
 
 Dockerfile exists already
 Stopping any previuosly running container ... Please wait...
+Running basic cleanups ...
+Running your container ... ---------------------------
+Logging in to Docker Hub...
+Docker login failed!
+
+Dockerfile exists already
