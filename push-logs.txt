@@ -9936,3 +9936,6 @@ Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
 [master c7d4fb3] update2
  2 files changed, 10 insertions(+)
 Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
+[master d4d90d3] update2
+ 2 files changed, 10 insertions(+)
+Reinitialized existing Git repository in /home/adetutu/autodevops_class/.git/
